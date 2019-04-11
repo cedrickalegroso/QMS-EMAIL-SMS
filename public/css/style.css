@@ -1,0 +1,98 @@
+html,body
+{
+    overflow: hidden;
+}
+
+.bg-cpuyellow
+{
+    background-color: #feb600;
+}
+
+.text-cpuyellow
+{
+    color: #feb600;
+}
+
+.bg-cpublue
+{
+    background-color: #230B62;
+}
+
+
+.cpu-crest
+{
+    width: 94px;
+}
+
+#advert
+{
+    height: 100vh;
+}
+
+table thead tr th 
+{
+    font-size: 100%;
+}
+
+table tbody tr td h1 
+{
+    font-size: 60px;
+}
+
+#time
+{
+    font-size: 20px;
+}
+
+.queuemainmenuwrapper
+{
+    height: 100vh;
+}
+
+.queuemainmenuinnerwrapper
+{
+    height: 70vh;
+}
+
+.menuoption
+{
+    height: 250px;
+    margin: 10px;
+}
+
+.menuoption a:hover
+{
+    text-decoration: none;
+}
+
+.menuo-logo-wrap 
+{
+  padding: 10px;
+}
+
+
+.menuo-logo-wrap img
+{
+   text-align: center;
+   width: 180px;
+   color:white;
+}
+
+.ticketmenu
+{
+    font-size: 120px;
+}
+
+.menubutton
+{
+    margin-top: 10px;
+    border-radius: 180px 180px 180px 180px;
+    font-size: 45px;
+}
+
+.queuemainmenuinnerwrapper form input
+{
+    border-radius: 180px 180px 180px 180px;
+    font-size: 30px;
+}
+
